@@ -58,7 +58,7 @@ The experiments performed over latent variable distribution: the variations of M
 
  <img src="https://render.githubusercontent.com/render/math?math=\A: \mathcal{N}(0, 1)"> | <img src="https://render.githubusercontent.com/render/math?math=\A: \mathcal{N}(0, 0.4)"> |   <img src="https://render.githubusercontent.com/render/math?math=\B: \mathcal{N}(0, 1)"> | <img src="https://render.githubusercontent.com/render/math?math=\B: \mathcal{N}(0, 0.4)"> 
 :---------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:
- <img src="/images/generated/a01.png" width="236" height="231"/> | <img src="/images/generated/a04.png" width="236" height="231"/>| <img src="/images/generated/b01.png" width="236" height="231"/> | <img src="/images/generated/b04.png" width="236" height="231"/>
+ <img src="/images/generated/a01.png" width="157" height="154"/> | <img src="/images/generated/a04.png" width="157" height="154"/>| <img src="/images/generated/b01.png" width="157" height="154"/> | <img src="/images/generated/b04.png" width="157" height="154"/>
  
 1. The color distribution changed its intensity;
 2. The generated faces still contain asymmetry;
@@ -68,7 +68,7 @@ The experiments performed over latent variable distribution: the variations of M
   
    <img src="https://render.githubusercontent.com/render/math?math=\A: \mathcal{N}(-0.3, 0.4)"> | <img src="https://render.githubusercontent.com/render/math?math=\A: \mathcal{N}(0.3, 0.4)"> |   <img src="https://render.githubusercontent.com/render/math?math=\B: \mathcal{N}(-0.3, 0.4)"> | <img src="https://render.githubusercontent.com/render/math?math=\B: \mathcal{N}(0.3, 0.4)"> 
 :---------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:
- <img src="/images/generated/a_34.png" width="236" height="231"/> | <img src="/images/generated/a34.png" width="236" height="231"/>| <img src="/images/generated/b_34.png" width="236" height="231"/> | <img src="/images/generated/b34.png" width="236" height="231"/>
+ <img src="/images/generated/a_34.png" width="157" height="154"/> | <img src="/images/generated/a34.png" width="157" height="154"/>| <img src="/images/generated/b_34.png" width="157" height="154"/> | <img src="/images/generated/b34.png" width="157" height="154"/>
  
 Average faces from different Mean points:
 
