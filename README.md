@@ -2,7 +2,7 @@
 
 This is the repository of the project proposed for the course of *Neural Networks*.
 
-This work is implemented using Keras Library and is centered on the idea to **develop the Deep Convolution GAN** that can perform well on [**Anime-Face-Dataset**](https://github.com/bchao1/Anime-Face-Dataset) to generate new anime style images and **explore the latent feature representations**.
+This work is implemented in Tensorflow and is centered on the idea to **develop the Deep Convolution GAN** that can perform well on [**Anime-Face-Dataset**](https://github.com/bchao1/Anime-Face-Dataset) to generate new anime style images and **explore the latent feature representations**.
 
 The  Jupyter Notebook with the code can be found in the repository files as [code.ipynb](https://github.com/olga-sorokoletova/Neural-Networks/blob/main/scripts/code.ipynb). 
 
